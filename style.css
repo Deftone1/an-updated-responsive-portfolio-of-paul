@@ -2,3 +2,36 @@
     text-align: center;
     color: rgb(255, 255, 255);
 }
+
+.about-header {
+    font-family: century-gothic;
+    text-align: center;
+}
+
+.card {
+text-align: center;
+
+}
+
+.nav-text {
+    color: black;
+}
+
+.card-text, .card-title {
+    font-family: century-gothic;
+    color: black;
+}
+
+.music-text {
+    font-family: century-gothic;
+}
+
+.btn-spacing {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.text-center {
+    font-family: century-gothic;
+    color: white;
+}
